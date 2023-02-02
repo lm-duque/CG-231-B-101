@@ -1,0 +1,19 @@
+Ejercicio 3.1 
+Cuando los tres factores de escala son iguales, se denomina escalado uniforme.
+Ahora, lee y contesta las siguientes cuestiones:
+
+¿Qué ocurre si los factores de escala son diferentes entre sí?
+
+Cuando los factores de escala son diferentes hacen que la figura o objeto se deforme y no este bien proporcionada 
+ 
+¿Y si algún factor de escala es cero?
+
+El objeto o figura desaparece de esa dimensión 
+
+¿Qué ocurre si uno o varios factores de escala son negativos?
+
+La figura o objeto se hace mas pequeña en escala
+
+¿Y si el factor de escala está entre cero y uno?
+
+El objeto o figura esta entre 0 o 1 se reduce 
