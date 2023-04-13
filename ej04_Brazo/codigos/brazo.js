@@ -17,17 +17,6 @@ scene.add(camera);
 
 var controls = new THREE.OrbitControls(camera, renderer.domElement);
 
-// ** Cubo y esfera **
-/*
-* BoxGeometry(width, height, depth, widthSegments, heightSegments, depthSegments)
-    width (float): Ancho; es decir, la longitud de las aristas paralelas al eje X. Opcional; el valor predeterminado es 1.
-    height (float): altura; es decir, la longitud de las aristas paralelas al eje Y. Opcional; el valor predeterminado es 1.
-    depth (float): profundidad; es decir, la longitud de las aristas paralelas al eje Z. Opcional; el valor predeterminado es 1.
-    widthSegments (integer): Número de caras rectangulares segmentadas a lo largo del ancho de los lados. Opcional; el valor predeterminado es 1.
-    heightSegments (integer): Número de caras rectangulares segmentadas a lo largo de la altura de los lados. Opcional; el valor predeterminado es 1.
-    depthSegments (integer): Número de caras rectangulares segmentadas a lo largo de la profundidad de los lados. Opcional; por defecto es 1.
-*/
-
 // ** Datos **
 // Array figuras
 var cubos = [];
